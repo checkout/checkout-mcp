@@ -4,7 +4,7 @@
 integration guides, and the ability to act on real payments, without leaving your editor.
 
 [![Install in VS Code](https://img.shields.io/badge/Install%20in-VS%20Code-0098FF?style=for-the-badge)](https://insiders.vscode.dev/redirect/mcp/install?name=checkout&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.checkout.com%22%7D)
-[![Install in Cursor](https://img.shields.io/badge/Install%20in-Cursor-000000?style=for-the-badge)](https://cursor.com/install-mcp?name=checkout&config=eyJtY3BTZXJ2ZXJzIjp7ImNoZWNrb3V0LW1jcCI6eyJ1cmwiOiJodHRwczovL21jcC5jaGVja291dC5jb20iLCJhdXRoIjp7IkNMSUVOVF9JRCI6ImNoZWNrb3V0LW1jcCJ9fX19)
+[![Install in Cursor](https://img.shields.io/badge/Install%20in-Cursor-000000?style=for-the-badge)](https://cursor.com/install-mcp?name=checkout-mcp&config=eyJ1cmwiOiJodHRwczovL21jcC5jaGVja291dC5jb20iLCJhdXRoIjp7IkNMSUVOVF9JRCI6ImNoZWNrb3V0LW1jcCJ9fQ%3D%3D)
 
 Or, in Claude Code:
 
