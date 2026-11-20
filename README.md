@@ -25,8 +25,7 @@ server replaces that guesswork with grounded answers.
   support knowledge base — the live versions, not a stale snapshot from a training run.
 - **It recommends a real integration path.** Describe your use case and stack, and get a route
   matched to it, rather than the one generic tutorial that happened to rank highest.
-- **It acts, not just advises.** Check a payment, refund it, void an authorization, or create a
-  payment link — from a plain-language request against your own account.
+- **It acts, not just advises.** Check a payment from a plain-language request against your own account.
 - **It costs less per answer.** Purpose-built, AI-optimized context instead of scraped HTML means
   fewer tokens burned and faster replies.
 
@@ -42,8 +41,6 @@ Your MCP client shows the full tool list the moment it connects.
 
 > What's the status of payment `pay_xxxxx`?
 
-> Refund payment `pay_xxxxx`.
-
 ## Environments
 
 | Environment | URL |
@@ -58,8 +55,7 @@ is OAuth 2.0: your client discovers the authorization server and opens a browser
 No API keys are involved.
 
 The agent inherits your permissions and nothing more. It can only perform an operation your
-Dashboard user is already allowed to perform — to refund a payment, for instance, your user needs
-the **Refund payments**
+Dashboard user is already allowed to perform.
 [permission](https://www.checkout.com/docs/business-operations/use-the-dashboard/manage-users/user-permissions).
 
 <details>
